@@ -1,3 +1,3 @@
 this is version 1 of the project
 WE HAVE ADDED NEW LINE HERE
-again adding the line for diff command
+removed a line then added this
