@@ -1,4 +1,3 @@
 file_to_ignore.docx
 *.log
 ignore_folder/
-*.php
